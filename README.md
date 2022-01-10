@@ -2,8 +2,6 @@
 
 A software developer with expertise in both frontend and backend development.
 
-I'm currently working with Yugasa Software Labs Pvt, India.
-
 My Technology Stack
 
 {
@@ -12,7 +10,7 @@ My Technology Stack
   
   "Frontend": ["Angular"],
   
-  "Backend": ["Laravel", "Codeigniter"],
+  "Backend": ["Laravel", "Codeigniter", "ASP"],
   
   "Libraries": ["bootstrap", "jQuery", "foundation" "material ui"]
   
