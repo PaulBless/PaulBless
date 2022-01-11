@@ -2,31 +2,16 @@
 
 A software developer with expertise in both frontend and backend development.
 
-My Technology Stack
+I am currently working on PHP/LAMP stack
 
-{
+Am currently learning "golang", "python", "socket.io"
 
-  "Language": ["PHP", "C#", "JavaScript"],
-  
-  "Frontend": ["Angular"],
-  
-  "Backend": ["Laravel", "Codeigniter", "ASP"],
-  
-  "Libraries": ["bootstrap", "jQuery", "foundation" "material ui"]
-  
-  "Databases": ["MySql", "MSSQL", "PostgreSQL", "MongoDB"], // mostly used mysql/mssql
-  
-  "IDE": ["vs code", "visual studio", "brackets" , "atom"]
-  
-  "Others": ["photoshop", "figma"]
-  
-}
+Am looking to collaborate on freelance projects
 
-Am currently learning
+You can reach me via eshunbless1@gmail.com
 
-{
-  ["golang"], ["python/django"], ["socket.io"]
-}
+
+
 
 <!--
 **PaulBless/PaulBless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
