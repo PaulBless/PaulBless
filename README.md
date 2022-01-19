@@ -4,11 +4,13 @@ A software developer with expertise in both frontend and backend development.
 
 I am currently working on PHP/LAMP stack
 
-Am currently learning "golang", "python", "socket.io"
+Am currently learning "golang", "python"
 
 Am looking to collaborate on freelance projects
 
-You can reach me via eshunbless1@gmail.com
+You can reach me via eshunbless1@gmail.com OR
+
+WhatsApp: +233241565520
 
 
 
