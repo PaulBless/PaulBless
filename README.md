@@ -4,7 +4,7 @@ A software developer with expertise in both frontend and backend development.
 
 I am currently working on PHP/LAMP stack
 
-Am currently learning "golang", "python"
+Am currently learning "ReactPHP","golang", "python"
 
 Am looking to collaborate on freelance projects
 
