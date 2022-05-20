@@ -2,7 +2,7 @@
 
 A software developer with expertise in both frontend and backend development.
 
-I am currently working on PHP/LAMP stack
+I am currently working on PHP/LAMP stack & Node(Expressjs)
 
 Am currently learning "ReactPHP","ReactJS", "Python"
 
