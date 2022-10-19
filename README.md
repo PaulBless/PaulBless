@@ -2,9 +2,9 @@
 
 A software developer with expertise in both frontend and backend development.
 
-Tech stacks I work with include PHP/LAMP, C# Web API & Node(Expressjs)
+Tech stacks I work with include LAMP (PHP,MVC), C# Web API & Node(Expressjs)
 
-Am currently learning "ReactPHP","ReactJS", "Python"
+Am currently learning "ReactPHP", "Python" and "JS Frameworks(Vue & React)"
 
 Am looking to collaborate on freelance projects
 
