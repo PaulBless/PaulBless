@@ -1,6 +1,6 @@
 ### Hi there, I'm Paul 👋
 
-A software developer with expertise in both frontend and backend development.
+A software engineer with expertise in both frontend and backend development and system deployment.
 
 Tech stacks I work with include LAMP (PHP,MVC), C# Web API & Node(Expressjs)
 
